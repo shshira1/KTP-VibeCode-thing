@@ -1,0 +1,6 @@
+{
+  "name": "ChronoFocus – Priority Day Calendar & Auto-Scheduler",
+  "description": "Transform prioritized tasks into a realistic, structured, and completable daily schedule with smart energy-level time blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
